@@ -46,11 +46,11 @@ Responsibilities: Dev Ops + Threading
 
 '''
 
-=== Benson Meier
-image::yl_coder.jpg[width="150", align="left"]
-{empty}[http://github.com/yl-coder[github]] [<<johndoe#, portfolio>>]
+=== Salsabil Tasnia Ali Nikita MD
+image::salsabiltasnia.jpeg[width="150", align="left"]
+{empty}[https://github.com/SalsabilTasnia[github]] [<<johndoe#, portfolio>>]
 
 Role: Developer +
-Responsibilities: UI
+Responsibilities: Menu Feature
 
 '''
